@@ -91,7 +91,6 @@ namespace ThreeRow
                         gems[row2, col2] = gems[row1, col1];
                         gems[row1, col1] = temp;
                     }
-
                     selectedGem = null;
                 }
             }

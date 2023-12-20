@@ -8,8 +8,8 @@
         Title="Game" Height="450" Width="516">
     <Grid>
         <Label Content="TIME" HorizontalAlignment="Left" Margin="78,5,0,0" VerticalAlignment="Top" Width="47" FontSize="16" FontFamily="Algerian" Background="#FFF7F2F2"/>
-        <Label x:Name="lb_time" Content="100" HorizontalAlignment="Left" Margin="146,5,0,0" VerticalAlignment="Top" FontFamily="Algerian" FontSize="16" Background="#FFF7F2F2"/>
-        <Canvas x:Name="GameCanvas" Margin="78,46,332,29"/>
+        <Label x:Name="lb_time" Content="30" HorizontalAlignment="Left" Margin="146,5,0,0" VerticalAlignment="Top" FontFamily="Algerian" FontSize="16" Background="#FFF7F2F2"/>
+        <Canvas x:Name="GameCanvas" Margin="78,46,81,29"/>
         <Label Content="SCORE" HorizontalAlignment="Left" Margin="310,5,0,0" VerticalAlignment="Top" Width="63" FontSize="16" FontFamily="Algerian" Background="#FFF7F2F2"/>
         <Label x:Name="lb_score" Content="0" HorizontalAlignment="Left" Margin="395,5,0,0" VerticalAlignment="Top" FontFamily="Algerian" FontSize="16" Background="#FFF7F2F2" Width="40"/>
 
